@@ -1,0 +1,213 @@
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe.config
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.pdb
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Properties.Resources.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.exe
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.pdb
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Form1.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCities.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmKategory.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCompany.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCustomer.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmMutsar.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmSapak.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.UserControl1.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmItemsRechisha.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmRechishaFromSapak.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmUpdate.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmBuyingsCustomer.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.itemsBuying.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmTashlum.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\bin\Debug\פרויקט.exe.config
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\bin\Debug\פרויקט.exe
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\bin\Debug\פרויקט.pdb
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Form1.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmBuyingsCustomer.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCities.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCompany.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCustomer.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmItemsRechisha.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmKategory.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmMutsar.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmSapak.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmRechishaFromSapak.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmTashlum.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmUpdate.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.itemsBuying.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.Properties.Resources.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.UserControl1.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.exe
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט\פרויקט\obj\Debug\פרויקט.pdb
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Form1.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmBuyingsCustomer.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCities.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCompany.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCustomer.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmItemsRechisha.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmKategory.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmMutsar.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmSapak.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmRechishaFromSapak.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmTashlum.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmUpdate.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.itemsBuying.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Properties.Resources.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.UserControl1.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.exe
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.pdb
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe.config
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.pdb
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Form1.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmBuyingsCustomer.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCities.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCompany.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCustomer.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmItemsRechisha.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmKategory.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmMutsar.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmSapak.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmRechishaFromSapak.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmTashlum.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmUpdate.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.itemsBuying.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Properties.Resources.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.UserControl1.resources
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.exe
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.pdb
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe.config
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe
+C:\Users\User\Desktop\ציפי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.pdb
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmReturn.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe.config
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.pdb
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Form1.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmBuyingsCustomer.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCities.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCompany.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCustomer.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmItemsRechisha.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmKategory.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmMutsar.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmReturn.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmSapak.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmRechishaFromSapak.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmTashlum.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmUpdate.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.itemsBuying.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Properties.Resources.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.UserControl1.resources
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.GenerateResource.cache
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.exe
+E:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.pdb
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe.config
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.pdb
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Form1.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmBuyingsCustomer.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCities.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCompany.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCustomer.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmItemsRechisha.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmKategory.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmMutsar.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmReturn.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmSapak.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmRechishaFromSapak.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmTashlum.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmUpdate.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.itemsBuying.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Properties.Resources.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.UserControl1.resources
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.exe
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\גיבוי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.pdb
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe.config
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.pdb
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Form1.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmBuyingsCustomer.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCities.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCompany.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCustomer.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmItemsRechisha.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmKategory.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmMutsar.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmReturn.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmSapak.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmRechishaFromSapak.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmTashlum.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmUpdate.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.itemsBuying.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Properties.Resources.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.UserControl1.resources
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.GenerateResource.cache
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.exe
+F:\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.pdb
+T:\מדעי המחשב יב\פנירי צפורה\ציפי פנירי\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe.config
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.pdb
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Form1.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmBuyingsCustomer.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCities.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCompany.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCustomer.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmItemsRechisha.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmKategory.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmMutsar.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmReturn.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmSapak.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmRechishaFromSapak.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmTashlum.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmUpdate.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.itemsBuying.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Properties.Resources.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.UserControl1.resources
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.GenerateResource.cache
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.exe
+D:\ציפי\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.pdb
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe.config
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.exe
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\bin\Debug\פרויקט.pdb
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Form1.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmBuyingsCustomer.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCities.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCompany.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmCustomer.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmItemsRechisha.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmKategory.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmMutsar.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmReturn.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmSapak.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmRechishaFromSapak.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmTashlum.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.frmUpdate.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Gui.itemsBuying.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.Properties.Resources.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.UserControl1.resources
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.GenerateResource.cache
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.exe
+C:\Users\tzipi paniri\Desktop\תכנות\תיכון\הגשה\פרויקט ציפי פנירי\פרויקט\פרויקט\obj\Debug\פרויקט.pdb
